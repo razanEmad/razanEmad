@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center" style="font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;">
-Exploring the Intersection of Big Data, Artificial Intelligence & Smart Analytics
+Exploring the Intersection of Big Data & Artificial Intelligence
 </h3>
 
 ---
