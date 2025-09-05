@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Razan</h1>
-<h1 align="center">🚀 Big Data Enthusiast</h1>
-<h3 align="center">Exploring the intersection of Big Data, AI, and Intelligent Systems</h3>
+<h1 align="center" style="font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;">
+🚀 Big Data Enthusiast
+</h1>
+
+<h3 align="center" style="font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;">
+Exploring the Intersection of Big Data, Artificial Intelligence & Smart Analytics
+</h3>
+
 
 
 ---
