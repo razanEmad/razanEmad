@@ -7,8 +7,6 @@
 Exploring the Intersection of Big Data, Artificial Intelligence & Smart Analytics
 </h3>
 
-
-
 ---
 
 ### 💻 Languages
@@ -56,4 +54,16 @@ Exploring the Intersection of Big Data, Artificial Intelligence & Smart Analytic
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Seaborn-4C78A8?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tkinter-FFCC00?style=for-the-badge&logo=python&logoColor=black"/>
+</p>
+
+---
+
+### 🌐 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/razan-emad-900b091b7" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:razanelzohri@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
