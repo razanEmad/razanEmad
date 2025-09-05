@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Razan</h1>
-<h3 align="center">A passionate learner and developer</h3>
+<h1 align="center">🚀 Big Data</h1>
+<h3 align="center">Exploring the intersection of Big Data, AI, and Intelligent Systems</h3>
+
 
 ---
 
